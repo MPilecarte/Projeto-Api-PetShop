@@ -11,7 +11,7 @@ namespace ApiPetShop.Data
         public string Idade { get; set; }
         public GeneroEnum Genero { get; set; }
         public string Dono { get; set; }
-        public double RGA { get; set; }
+        public string RGA { get; set; }
         public string DataUltVacina { get; set; }
         //public DateTime DataUltVacina { get; set; }
     }
