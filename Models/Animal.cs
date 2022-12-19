@@ -10,7 +10,6 @@ namespace ApiPetShop.Data
         public PorteEnum Porte { get; set; }
         public string Idade { get; set; }
         public GeneroEnum Genero { get; set; }
-        public string Dono { get; set; }
         public string RGA { get; set; }
         public string DataUltVacina { get; set; }
         //public DateTime DataUltVacina { get; set; }
